@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <!-- Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hCC3P7dj3NKSI/giphy.gif" height="30">
-  Welcom to my profile!
+  ¡Welcom to my profile!
+  <img src="https://media.giphy.com/media/hCC3P7dj3NKSI/giphy.gif" height="30">
 </h1>
 <h4 align="center">
   Intern at Nestlé Innvation Team - Emerging Tech | Computer Science Student at Universitat de Barcelona
