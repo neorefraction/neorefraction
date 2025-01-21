@@ -10,7 +10,13 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-24.04
     steps:
-      - uses: neorefraction/neorefraction@main
+      # Checkout the repository to allow the action to access it
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Use the Wakatime action to update the README with metrics
+      - name: Update Readme with Wakatime Metrics
+        uses: wakatime/wakatime-action@v1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
