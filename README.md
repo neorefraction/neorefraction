@@ -23,13 +23,14 @@ Here are some ideas to get you started:
   Intern at Nestlé Innvation Team - Emerging Tech | Computer Science Student at Universitat de Barcelona
 </h4>
 
-<h3><img loading="lazy" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDk2NHV3NWM2anlneHc1MzR2Y2UxYjBvcjA2Z2hzMDZnMnR4eXRydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xdlFyrubWz26K5L76p/giphy.gif" width="50"> About me </h3>
+<h2><img loading="lazy" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDk2NHV3NWM2anlneHc1MzR2Y2UxYjBvcjA2Z2hzMDZnMnR4eXRydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xdlFyrubWz26K5L76p/giphy.gif" width="50"> About me </h2>
 
-[![Linkedin: Neorefraction](https://img.shields.io/badge/LinkedIn-Johnny%20Astudillo-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnnyastudilloso/)](https://www.linkedin.com/in/neorefraction/)
+[![Linkedin Neorefraction](https://img.shields.io/badge/LinkedIn-Johnny%20Astudillo-0066ff?&link=https://www.linkedin.com/in/johnnyastudilloso/)](https://www.linkedin.com/in/neorefraction/)
+[![Email Neorefraction](https://img.shields.io/badge/Email-johnnysatudilloso@gmail.com-cc0100?style=flat)](mailto:johnnyastudilloso@gmail.com)
 [![GitHub Neorefraction](https://img.shields.io/github/followers/neorefraction?label=follow&style=social)](https://github.com/neorefraction)
 
 <span align="rigth">
-  <img align="right" loading="lazy" src="https://media.giphy.com/media/UJ1CNPAOGxXKo/giphy.gif?cid=ecf05e47tzm1c9zdzonhwjm1qn4w4gqlmp2u9jp2xs7wr0br&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=230>
+  <img align="right" loading="lazy" src="https://media.giphy.com/media/UJ1CNPAOGxXKo/giphy.gif?cid=ecf05e47tzm1c9zdzonhwjm1qn4w4gqlmp2u9jp2xs7wr0br&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=225>
 </span>
 
 ```javascript
@@ -46,6 +47,26 @@ const neorefraction = {
 }
 ```
 
-<h2><img loading="lazy" align="center" src="https://media.giphy.com/media/CCqJCuNfKmpQNESLVA/giphy.gif?cid=790b76114g059097p9w2ah093rxdo7fu22c45y33a1lg6dfi&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="60"> Stats</h2>
+<h2><img loading="lazy" align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdtYnNsb2p4NmYxN2RuM204aGFmN2h6d3owZGJyaHk4eHFwb3g5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QP7HKBJPbmooW93Kjq/giphy.gif" width="50"> Stats </h2>
 
-![Neorefraction's github stats](https://github-readme-stats.vercel.app/api?username=neorefraction&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<span>
+  <img align="left" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=neorefraction&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</span>
+
+<div>
+  <h4>Credits</h4>
+  <ul>
+    <li>
+      <b>Mario Kart Spinning Sticker</b> from <a href="https://giphy.com/stickers/pixel-nintendo-hCC3P7dj3NKSI">Giphy</a>
+    </li>
+    <li>
+      <b>Memory Card Stickers</b> by <a href="[https://giphy.com/stickers/pixel-nintendo-hCC3P7dj3NKSI](https://whoisryosuke.com/)">@whoisryosuke</a>
+    </li>
+    <li>
+      <b>Spidy Sticker</b> from <a href="https://giphy.com/stickers/head-spiderman-scratch-UJ1CNPAOGxXKo">Giphy</a>
+    </li>
+    <li>
+      <b>Github Stats Widget</b> by <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
+    </li>
+  </ul>
+</div>
