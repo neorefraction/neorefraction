@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![GitHub Neorefraction](https://img.shields.io/github/followers/neorefraction?label=follow&style=social)](https://github.com/neorefraction)
 
 <span align="rigth">
-  <img align="right" loading="lazy" src="https://media.giphy.com/media/UJ1CNPAOGxXKo/giphy.gif?cid=ecf05e47tzm1c9zdzonhwjm1qn4w4gqlmp2u9jp2xs7wr0br&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=240 width=180>
+  <img align="right" loading="lazy" src="https://media.giphy.com/media/UJ1CNPAOGxXKo/giphy.gif?cid=ecf05e47tzm1c9zdzonhwjm1qn4w4gqlmp2u9jp2xs7wr0br&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=230 width=180>
 </span>
 
 ```javascript
