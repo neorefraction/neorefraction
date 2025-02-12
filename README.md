@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <!-- Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hCC3P7dj3NKSI/giphy.gif" height="30" width=80>
+  <img src="https://media.giphy.com/media/hCC3P7dj3NKSI/giphy.gif" height="30" width=90>
   ¡Welcome to my profile!
-  <img src="https://media.giphy.com/media/hCC3P7dj3NKSI/giphy.gif" height="30" width=80>
+  <img src="https://media.giphy.com/media/hCC3P7dj3NKSI/giphy.gif" height="30" width=90>
 </h1>
 <h4 align="center">
   Intern at Nestlé Innvation Team - Emerging Tech | Computer Science Student at Universitat de Barcelona
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![GitHub Neorefraction](https://img.shields.io/github/followers/neorefraction?label=follow&style=social)](https://github.com/neorefraction)
 
 <span align="rigth">
-  <img align="right" loading="lazy" src="https://media.giphy.com/media/UJ1CNPAOGxXKo/giphy.gif?cid=ecf05e47tzm1c9zdzonhwjm1qn4w4gqlmp2u9jp2xs7wr0br&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=235 width=180>
+  <img align="right" loading="lazy" src="https://media.giphy.com/media/UJ1CNPAOGxXKo/giphy.gif?cid=ecf05e47tzm1c9zdzonhwjm1qn4w4gqlmp2u9jp2xs7wr0br&ep=v1_stickers_search&rid=giphy.gif&ct=s" height=230 width=180>
 </span>
 
 ```javascript
@@ -53,9 +53,9 @@ const neorefraction = {
   <img align="left" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=neorefraction&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </span>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
+<!--START_SECTION:waka
+TODO: wakatime with actions
 <div>
   <h4>Credits</h4>
   <ul>
@@ -73,3 +73,6 @@ const neorefraction = {
     </li>
   </ul>
 </div>
+-->
+
+<!--END_SECTION:waka-->
