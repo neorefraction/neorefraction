@@ -55,6 +55,18 @@ const neorefraction = {
 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 20 January 2025 - To: 24 February 2025
+
+Total Time: 2 hrs 2 mins
+
+C#           1 hr 28 mins    >>>>>>>>>>>>>>>>>>-------   72.31 %
+JavaScript   17 mins         >>>>---------------------   14.44 %
+Git Config   1 min           -------------------------   01.20 %
+Other        0 secs          -------------------------   00.08 %
+```
+
 <!--END_SECTION:waka-->
 
 <div>
