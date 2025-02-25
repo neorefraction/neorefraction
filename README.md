@@ -54,8 +54,9 @@ const neorefraction = {
 </span>
 
 
-<!--START_SECTION:waka
-TODO: wakatime with actions
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div>
   <h4>Credits</h4>
   <ul>
@@ -73,6 +74,3 @@ TODO: wakatime with actions
     </li>
   </ul>
 </div>
--->
-
-<!--END_SECTION:waka-->
