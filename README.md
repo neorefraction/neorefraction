@@ -57,7 +57,7 @@ const neorefraction = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 January 2025 - To: 17 April 2025
+From: 20 January 2025 - To: 18 April 2025
 
 Total Time: 2 hrs 2 mins
 
