@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hCC3P7dj3NKSI/giphy.gif" height="30" width=90>
 </h1>
 <h4 align="center">
-  Intern at Nestlé Innvation Team - Emerging Tech | Computer Science Student at Universitat de Barcelona
+  Junior Software Engineer | Computer Science Student at Universitat de Barcelona
 </h4>
 
 <h2><img loading="lazy" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDk2NHV3NWM2anlneHc1MzR2Y2UxYjBvcjA2Z2hzMDZnMnR4eXRydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xdlFyrubWz26K5L76p/giphy.gif" width="50"> About me </h2>
